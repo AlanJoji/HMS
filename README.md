@@ -40,7 +40,7 @@ Also the following tables must be created
 
 `appointment1`
 
-Commands relating to this can be found in the`sql_scripts.sql`
+Commands relating to this can be found in  `sql_scripts.sql`
 
 ## Authors
 
