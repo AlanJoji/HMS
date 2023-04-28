@@ -7,11 +7,11 @@ The program assists in hospital management.
 
 ## Features
 
-- Graphic User Interface
-- Database Connectivity
-- Administrative Functions
-- Doctor Funcitonality
-- Patient Funcitonality
+- **Graphic User Interface**
+- **Database Connectivity**
+- **Administrative Functions**
+- **Doctor Funcitonality**
+- **Patient Funcitonality**
 
 
 
