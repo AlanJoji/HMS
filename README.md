@@ -46,7 +46,7 @@ Commands relating to this can be found in  `sql_scripts.sql`
 
 - [Alan Joji](https://github.com/AlanJoji)
 - [Ankur Renduchintala](https://github.com/rankur03)
-- [Sanraj Lachhiramka](https://github.com/Sanraj02)
+- [Sanraj Lachhiramka](https://github.com/Sanraj-Lachhiramka)
 
 
 
